@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/liam/Desktop/ICS-4U/Project3/Content/tribbleBrown.png","/home/liam/Desktop/ICS-4U/Project3/Content/bin/DesktopGL/Content/tribbleBrown.xnb","TextureProcessor","Texture2DContent",222874,643273,0.2758335
+"/home/liam/Desktop/ICS-4U/Project3/Content/tribbleCream.png","/home/liam/Desktop/ICS-4U/Project3/Content/bin/DesktopGL/Content/tribbleCream.xnb","TextureProcessor","Texture2DContent",147094,390517,0.0253436
+"/home/liam/Desktop/ICS-4U/Project3/Content/tribbleGrey.png","/home/liam/Desktop/ICS-4U/Project3/Content/bin/DesktopGL/Content/tribbleGrey.xnb","TextureProcessor","Texture2DContent",196679,702329,0.0444981
+"/home/liam/Desktop/ICS-4U/Project3/Content/tribbleOrange.png","/home/liam/Desktop/ICS-4U/Project3/Content/bin/DesktopGL/Content/tribbleOrange.xnb","TextureProcessor","Texture2DContent",209835,393325,0.0286989
